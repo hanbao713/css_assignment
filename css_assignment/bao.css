@@ -1,0 +1,66 @@
+body{
+    background-color:#ffffff;
+    color: #757575;
+    font-size:1em;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+ 
+h2{
+        color:#BF6F6F;
+        text-decoration: italic;
+        font-weight:50px;
+    }
+ 
+ h3 {
+        color:#BF6F6F;
+        text-decoration: bold;
+        font-weight:100px;
+    }
+
+    a:link{
+        text-decoration:none;
+        color:#BF6F6F
+    } 
+    a:visited{
+        text-decoration:none
+    }
+    a:hover{
+        text-decoration:underline;
+        color:blue
+    }
+    a:active{
+        text-decoration:none
+    }
+
+    .nametag{
+        height:250px;
+        float:center;
+        margin-left:250px;
+        padding-bottom:5px;
+       
+    }
+
+    .profilepic{
+        height:400px;
+        float:left;
+        margin:5px;
+        padding-top:20px;
+        padding-right:30px;
+        
+    }
+
+    #terrier{
+        font-weight:bold;
+        font-style:italic;
+    }
+    .bu{
+        font-weight:bold;
+        color:#BF6F6F
+    }
+    
+    #linkedin{ 
+        width:20px;
+        height:20px;
+        border-radius:50%;
+    }
+  
